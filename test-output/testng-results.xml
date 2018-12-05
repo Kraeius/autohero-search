@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14225" started-at="2018-12-05T05:26:07Z" finished-at="2018-12-05T05:26:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14225" started-at="2018-12-05T05:26:07Z" finished-at="2018-12-05T05:26:21Z">
+      <class name="main.SUIT_BasicFlow">
+        <test-method status="PASS" signature="BeforeSuit()[pri:0, instance:main.SUIT_BasicFlow@d2cc05a]" name="BeforeSuit" is-config="true" duration-ms="3987" started-at="2018-12-05T05:26:03Z" finished-at="2018-12-05T05:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuit -->
+        <test-method status="PASS" signature="SearchLanding()[pri:0, instance:main.SUIT_BasicFlow@d2cc05a]" name="SearchLanding" duration-ms="3665" started-at="2018-12-05T05:26:07Z" finished-at="2018-12-05T05:26:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchLanding -->
+        <test-method status="PASS" signature="SearchFilter()[pri:1, instance:main.SUIT_BasicFlow@d2cc05a]" name="SearchFilter" duration-ms="2206" started-at="2018-12-05T05:26:10Z" finished-at="2018-12-05T05:26:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchFilter -->
+        <test-method status="PASS" signature="SearchListOrder()[pri:2, instance:main.SUIT_BasicFlow@d2cc05a]" name="SearchListOrder" duration-ms="8289" started-at="2018-12-05T05:26:12Z" finished-at="2018-12-05T05:26:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchListOrder -->
+        <test-method status="PASS" signature="ResultVerifications()[pri:3, instance:main.SUIT_BasicFlow@d2cc05a]" name="ResultVerifications" duration-ms="42" started-at="2018-12-05T05:26:21Z" finished-at="2018-12-05T05:26:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResultVerifications -->
+        <test-method status="PASS" signature="afterSuit()[pri:0, instance:main.SUIT_BasicFlow@d2cc05a]" name="afterSuit" is-config="true" duration-ms="750" started-at="2018-12-05T05:26:21Z" finished-at="2018-12-05T05:26:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuit -->
+      </class> <!-- main.SUIT_BasicFlow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
